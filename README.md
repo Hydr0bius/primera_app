@@ -4,7 +4,7 @@ Práctica de los cursos:
 * React: desarrollando con JavaScrip
 * React: como los componentes  funcionan
 
-![portada](./../../img/01/portada.png).
+![portada](./../img/01/portada.png).
 
 En esta introducción a React se vieron los primeros pasos a estra biblioteca como:
 * JSX
@@ -22,10 +22,10 @@ El funcionamiento de la página es que cualquier usuario puede llenar el formula
 
 Una vez registrado aparecerá una tarjeta con su información el cual puede ponerle un like así como remover la tarjeta.
 
-![portada](./../../img/01/funcionamiento.png).
+![portada](./../img/01/funcionamiento.png).
 
 Para despleglar la página se utilizo **netlify**, despues de usar el comando <code>npm run build</code>
 
 Página de la práctica, en el siguiente enlace [link](https://practicadeorganizacionalura.netlify.app/).
 
-[Volver &ldca;](./../../README.md)
+[Volver &ldca;](./../README.md)
