@@ -4,7 +4,7 @@ Práctica de los cursos:
 * React: desarrollando con JavaScrip
 * React: como los componentes  funcionan
 
-![portada](./../img/01/portada.png).
+![portada](https://github.com/Hydr0bius/React/blob/main/img/01/portada.png?raw=true).
 
 En esta introducción a React se vieron los primeros pasos a estra biblioteca como:
 * JSX
@@ -22,7 +22,7 @@ El funcionamiento de la página es que cualquier usuario puede llenar el formula
 
 Una vez registrado aparecerá una tarjeta con su información el cual puede ponerle un like así como remover la tarjeta.
 
-![portada](./../img/01/funcionamiento.png).
+![portada](https://github.com/Hydr0bius/React/blob/main/img/01/funcionamiento.png?raw=true).
 
 Para despleglar la página se utilizo **netlify**, despues de usar el comando <code>npm run build</code>
 
