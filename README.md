@@ -28,4 +28,4 @@ Para despleglar la página se utilizo **netlify**, despues de usar el comando <c
 
 Página de la práctica, en el siguiente enlace [link](https://practicadeorganizacionalura.netlify.app/).
 
-[Volver &ldca;](./../README.md)
+[Volver &ldca;](https://github.com/Hydr0bius/React)
