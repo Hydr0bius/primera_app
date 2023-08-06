@@ -1,0 +1,23 @@
+.footer{
+    width: 100%;
+    display: flex;
+    padding: 5%;
+    align-items: center;
+    box-sizing: border-box;
+    background-size: cover;
+    background-position: center;
+    justify-content: space-between;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.redes__estilo{
+    padding: 0px 15px;
+    color: #fff;
+    font-size: 2rem;
+    transition: .8s;
+}
+.redes__estilo:hover{
+    color: gray;
+}
